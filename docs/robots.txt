@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huynhhuubinh75645-netizen.github.io/public-brand-guides/sitemap.xml
